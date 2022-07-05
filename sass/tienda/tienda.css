@@ -1,0 +1,14 @@
+@import '/sass/component/navbar.css';
+@import '/sass/component/footer.css';
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: Montserrat, sans-serif;
+}
+
+section .banner-box {
+  width: 100%;
+}
+section .banner-box img {
+  width: 100%;
+}/*# sourceMappingURL=tienda.css.map */
